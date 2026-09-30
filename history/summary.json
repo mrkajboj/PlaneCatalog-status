@@ -4,21 +4,21 @@
     "url": "https://planecatalog.com/api/auth/me",
     "icon": "https://icons.duckduckgo.com/ip3/planecatalog.com.ico",
     "slug": "plane-catalog",
-    "status": "down",
-    "uptime": "95.43%",
+    "status": "up",
+    "uptime": "93.62%",
     "uptimeDay": "16.27%",
-    "uptimeWeek": "86.96%",
-    "uptimeMonth": "95.43%",
-    "uptimeYear": "95.43%",
-    "time": 518,
-    "timeDay": 277,
-    "timeWeek": 362,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "uptimeWeek": "80.46%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "93.62%",
+    "time": 521,
+    "timeDay": 368,
+    "timeWeek": 388,
+    "timeMonth": 521,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2026-09-20": 239,
       "2026-09-29": 1135,
-      "2026-09-30": 179
+      "2026-09-30": 834
     }
   }
 ]
