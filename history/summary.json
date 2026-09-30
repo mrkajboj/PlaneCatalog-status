@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/planecatalog.com.ico",
     "slug": "plane-catalog",
     "status": "down",
-    "uptime": "96.16%",
-    "uptimeDay": "26.67%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "96.16%",
-    "time": 528,
-    "timeDay": 181,
-    "timeWeek": 399,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "uptime": "95.43%",
+    "uptimeDay": "16.27%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
+    "time": 518,
+    "timeDay": 277,
+    "timeWeek": 362,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2026-09-20": 239,
-      "2026-09-29": 1056
+      "2026-09-29": 1135,
+      "2026-09-30": 179
     }
   }
 ]
