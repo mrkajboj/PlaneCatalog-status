@@ -5,21 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/planecatalog.com.ico",
     "slug": "plane-catalog",
     "status": "down",
-    "uptime": "91.32%",
-    "uptimeDay": "36.35%",
-    "uptimeWeek": "70.85%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "91.32%",
-    "time": 481,
-    "timeDay": 199,
-    "timeWeek": 313,
-    "timeMonth": 481,
-    "timeYear": 481,
+    "uptime": "90.78%",
+    "uptimeDay": "36.34%",
+    "uptimeWeek": "68.69%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "90.78%",
+    "time": 470,
+    "timeDay": 198,
+    "timeWeek": 284,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-09-20": 239,
       "2026-09-29": 1135,
       "2026-09-30": 917,
-      "2026-10-01": 886
+      "2026-10-01": 916,
+      "2026-10-02": 187
     }
   }
 ]
