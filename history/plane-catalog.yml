@@ -1,7 +1,7 @@
 url: https://planecatalog.com/api/auth/me
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2026-10-02T15:06:05.334Z
+status: down
+code: 530
+responseTime: 48
+lastUpdated: 2026-10-02T19:55:00.639Z
 startTime: 2026-09-06T13:07:55.560Z
 generator: Upptime <https://github.com/upptime/upptime>
